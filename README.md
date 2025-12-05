@@ -55,6 +55,35 @@ It showcases **real-world cloud storage administration** for beginners in Azure.
 
 ---
 
+## Project screenshots
+-1 Create Azure Storage Account
+![Create Azure Storage account](01_azure_storage_account_create.png)
+![Storage account name & resource group](01_resource_group_storage_account_name.png
+)
+![Deployment progress](01_deployment_progress.png)
+![Deployment successfull](01_deployement_successfull.png)
+
+-2 Configure Azure Blob Storage
+![Blob Container](02_storage_browser_blobcontainer.png)
+![New Container](02_new_container.png)
+![Upload blob](02_upload_blob.png)
+![File uploaded](02_file_uploaded.png)
+![Configuration](02_configuration.png)
+![Enable anonymous access](02_enable_anonymous_access.png)
+![Blob anonymous accessed](02_blob_anonymous_accessed.png)
+
+
+-3 Connect to Azure Storage Explorer
+![Storage explorer](03_storage_explorer.png)
+![Storage account service](03_storage_account_service.png)
+![Connection string copy](03_copy_connection_string.png)
+![Enter connection string](03_enter_connection_info.png)
+![New Connection](03_added_new_connection.png)
+![Storage account added](03_storage_account_added.png)
+![File accessed](03_file_accessed.png)
+
+---
+
 ## Skills Gained
 
 - Azure Storage Account Management  
@@ -72,5 +101,6 @@ Beginner-level hands-on deployment demonstrating **cloud storage setup** and **r
 ---
 
 ##  Status
+
 
  Completed — Cloud File Storage System Successfully Implemented
